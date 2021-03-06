@@ -1,2 +1,2 @@
 def sum(a, b):
-    return a + b + a + b
+    return 2*a + b + a + 2*b
