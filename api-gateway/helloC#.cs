@@ -10,7 +10,7 @@ namespace Miscellaneous
     {
         static void Main()
         {
-            Console.WriteLine("Hello world!");
+            Console.WriteLine("Hello wodfdrld!");
             Console.Read();
         }
     }
